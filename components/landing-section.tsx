@@ -97,7 +97,7 @@ export function LandingSection() {
       >
         <div className="mx-auto max-w-[420px]">
           <a
-            href="https://tinyurl.com/spicyybio"
+            href="https://tinyurl.com/spicyystory"
             target="_blank"
             rel="noopener noreferrer"
             className="block"
