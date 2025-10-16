@@ -43,7 +43,7 @@ export function LandingSection() {
           {/* Primary CTA */}
           <div className="space-y-2">
             <a
-              href="https://juicy.bio/spicystory"
+              href="https://tinyurl.com/spicyystory"
               target="_blank"
               rel="noopener noreferrer"
               className="block"
